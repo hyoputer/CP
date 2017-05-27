@@ -1,0 +1,36 @@
+<html>
+    <svg height="600" width="1200">
+        <rect fill="none" height="598.000000" name="BG" stroke="blue" stroke-width="1.000000" width="1198.000000" x="1.000000" y="1.000000">
+        </rect>
+        <g fill="black">
+            <circle cx="400.000000" cy="50.000000" name="1" r="10.500000">
+            </circle>
+            <circle cx="600.000000" cy="300.000000" name="2" r="9.500000">
+            </circle>
+            <circle cx="500.000000" cy="300.000000" name="3" r="10.000000">
+            </circle>
+            <circle cx="500.000000" cy="550.000000" name="4" r="10.000000">
+            </circle>
+            <circle cx="300.000000" cy="550.000000" name="5" r="10.000000">
+            </circle>
+            <circle cx="300.000000" cy="300.000000" name="6" r="10.000000">
+            </circle>
+            <circle cx="200.000000" cy="300.000000" name="7" r="9.500000">
+            </circle>
+        </g>
+        <path d="M 400 50 L 600 300" name="1" stroke="#008888" stroke-width="13.800000">
+        </path>
+        <path d="M 600 300 L 500 300" name="2" stroke="#880088" stroke-width="9.300000">
+        </path>
+        <path d="M 500 300 L 500 550" name="3" stroke="#888800" stroke-width="7.800000">
+        </path>
+        <path d="M 500 550 L 300 550" name="4" stroke="#000088" stroke-width="0.300000">
+        </path>
+        <path d="M 300 550 L 300 300" name="5" stroke="#880000" stroke-width="9.300000">
+        </path>
+        <path d="M 300 300 L 200 300" name="6" stroke="#008800" stroke-width="12.300000">
+        </path>
+        <path d="M 200 300 L 400 50" name="7" stroke="#888888" stroke-width="9.300000">
+        </path>
+    </svg>
+</html>

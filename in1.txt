@@ -1,0 +1,36 @@
+append svg
+cattr width 1200
+cattr height 600
+selectAll rect
+enter 1
+dattr name name
+dattr x r_x
+dattr y r_y
+dattr width width
+dattr height height
+dattr fill fill
+dattr stroke stroke
+dattr stroke-width stroke_width
+end
+append g
+cattr fill black
+selectAll circle
+enter 2
+dattr name name
+dattr cx r_x
+dattr cy r_y
+dattr r radius
+end
+end
+selectAll path
+enter 2
+dattr name name
+dattr d fill
+dattr stroke stroke
+dattr stroke-width stroke_width -1.5 1.8
+print test1.html
+end
+end
+end
+end
+end

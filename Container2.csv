@@ -1,0 +1,6 @@
+name,r_x,r_y,width,height,fill,stroke,stroke_width,radius
+string,int,int,int,int,string,string,int,float
+1,0,0,0,0,pink,translate(600 100) rotate(0) scale(0.8),0,0
+2,0,0,0,0,skyblue,translate(800 300) rotate(90) scale(0.8),0,0
+3,0,0,0,0,pink,translate(600 500) rotate(180) scale(0.8),0,0
+4,0,0,0,0,skyblue,translate(400 300) rotate(270) scale(0.8),0,0
